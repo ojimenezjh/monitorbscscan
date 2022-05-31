@@ -19,8 +19,8 @@ from bs4 import BeautifulSoup
 #   'no_proxy': 'localhost,127.0.0.1'
 # }
 
-Webhook = "https://discord.com/api/webhooks/866828166465847327/FnBcVvMIr7eOuNw8wWt-uQnmm9BScyPWc38zONmLrMZdYeZFTG_tnLtKn_m1klMzfLdN"
-wallet = "0x0f526aaa64756e0a4943e25911b85bf2babf18a2"
+Webhook = "https://discord.com/api/webhooks/xxxxxx"
+wallet = "xxxxxx"
 
 existentSignal = []
 
